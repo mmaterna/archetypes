@@ -1,0 +1,11 @@
+.metadata
+.factorypath
+/.classpath
+/.project
+/.settings/
+/.gradle/
+/target/
+/build/
+/bin/
+/log
+*.log
